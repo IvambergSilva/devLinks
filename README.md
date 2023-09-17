@@ -4,8 +4,12 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/IvambergSilva/devLinks?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/IvambergSilva/devLinks?style=for-the-badge)
 
-### Registro do deploy da API:
+### DarkMode:
 <img src="/src/assets/images/devLinks-photoDark.jpg" alt="Exemplo de imagem no modo dark">
+
+<br>
+
+### LightMode:
 <img src="/src/assets/images/devLinks-photoLight.jpg" alt="Exemplo de imagem no modo light">
 
 <hr><br>

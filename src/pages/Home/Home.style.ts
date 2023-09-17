@@ -17,7 +17,7 @@ export const Paragrafo = styled.p`
 `
 
 export const HomeContainer = styled.div<IHomeContainerProps>`
-    background: url(${props => props.backgroundDesktop});
+    background: url(${props => props.backgroundDesktop}) no-repeat center/cover;
     height: 100vh;
     width: 100%;
     display: flex;
