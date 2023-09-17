@@ -21,7 +21,7 @@
 
 ## 🚀 Deploy
 
-<p>Segue o link com o deploy: <a href="https://ivamberg_links.netlify.app/" target="_blank">Clique aqui</a></p>
+<p>Segue o link com o deploy: <a href="https://ivamberg-links.netlify.app/" target="_blank">Clique aqui</a></p>
 
 ## 💻 Linguagens, Bibliotecas e Ferramentas
 
